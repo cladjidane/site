@@ -1,1 +1,17 @@
-theme: jekyll-theme-tactile
+auto : true
+permalink : /:title/
+exclude : ['sass', 'config.rb', 'README.md']
+
+title : Fabien CANU
+description : Web site Fabien CANU
+url : https://github.com/cladjidane/site
+author :
+  firstName : CANU
+  lastName : Fabien
+  jobTitle : Web Developer / designer
+  email : fabien.canu@gmail.com
+  github : cladjidane
+  linkedIn : fabiencanu
+  twitter : fabiencanu
+  twitterId : 216396668
+  location : Brest FR
